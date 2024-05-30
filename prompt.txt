@@ -1,0 +1,1 @@
+Create javascript for parsing a phone number with dashes and area code with parentheses autocorrect as the user types. Separate the javascript into its own file separate from the html input. Create a function in the javascript file to create the input using the dom model.
